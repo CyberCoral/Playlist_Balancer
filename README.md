@@ -10,7 +10,7 @@ It creates a pseudorandom playlist, with folder path support for more convenienc
 
 1. Clone the Github repository / Clona el repositorio:
    
-`git clone https://github.com/Puerto4445/LoveMac.git`
+`git clone https://github.com/CyberCoral/Playlist_Balancer`
 
 ## Current version / Versión actual
 v.1.0
