@@ -9,6 +9,7 @@ It creates a pseudorandom playlist, with folder path support for more convenienc
 # How to install / Instalación
 
 1. Clone the Github repository / Clona el repositorio:
+   
 `git clone https://github.com/Puerto4445/LoveMac.git`
 
 ## Current version / Versión actual
