@@ -22,4 +22,8 @@ Aug - 17 - 2025
 
 ## Author / Autor
 -CyberCoral
--The chat / El chat
+
+-Thanks to the chat / Gracias al chat
+
+## Link to the stream where the project was made / Enlace al directo donde se realizó el proyecto
+https://www.youtube.com/watch?v=PSUbVrPTDBA
